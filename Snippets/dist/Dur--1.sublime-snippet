@@ -1,0 +1,8 @@
+<snippet>
+    <content>
+  		<![CDATA[Dur(-1)$0]]>
+    </content>
+    <tabTrigger>d-1</tabTrigger>
+    <scope>meta.subtrack.Thulium</scope>
+    <description>Dur(-1)</description>
+  </snippet>

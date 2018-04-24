@@ -30,20 +30,20 @@ class tmExecuteCommand(sublime_plugin.WindowCommand):
 			file = file_name,
 			args = meta
 		)
-		self.result = subprocess.Popen(command,
+		result = subprocess.Popen(command,
 			stdout = subprocess.PIPE,
 			stderr = subprocess.PIPE,
 			shell = True
 		)
 
 		self.window.status_message(command)
-		output = self.result.stdout.read().decode('utf-8')
-		error = self.result.stderr.read().decode('utf-8')
+		output = result.stdout.read().decode('utf-8')
+		error = result.stderr.read().decode('utf-8')
 
 		self.output_view = self.window.create_output_panel('tm')
 
 		self.output_view.run_command('append', {
-			'characters': output, 
+			'characters': command, 
 			'force': True
 		})
 		self.output_view.set_syntax_file('tmResult.sublime-syntax')

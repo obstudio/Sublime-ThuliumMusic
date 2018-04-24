@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[new SubtrackParser(${1:subtrack}, this.Settings, this.Libraries, this.pitchQueue).parseTrack()$0]]></content>
-	<tabTrigger>parse</tabTrigger>
-	<scope>source.js</scope>
-	<description>new SubtrackParser(…)</description>
-</snippet>

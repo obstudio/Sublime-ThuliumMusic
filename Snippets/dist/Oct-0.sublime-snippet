@@ -1,0 +1,8 @@
+<snippet>
+    <content>
+  		<![CDATA[Oct(0)$0]]>
+    </content>
+    <tabTrigger>o0</tabTrigger>
+    <scope>meta.subtrack.Thulium</scope>
+    <description>Oct(0)</description>
+  </snippet>

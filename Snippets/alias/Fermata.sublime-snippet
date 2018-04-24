@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[(.)]]></content>
+	<tabTrigger>fermata</tabTrigger>
+	<scope>meta.subtrack.Thulium</scope>
+	<description>(.)</description>
+</snippet>

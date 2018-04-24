@@ -1,0 +1,8 @@
+<snippet>
+    <content>
+  	  <![CDATA[(1=E)$0]]>
+    </content>
+    <tabTrigger>ke</tabTrigger>
+    <scope>meta.subtrack.Thulium</scope>
+    <description>(1=E)</description>
+  </snippet>

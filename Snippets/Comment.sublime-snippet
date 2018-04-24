@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[-------------------- $1 --------------------]]></content>
+	<tabTrigger>c</tabTrigger>
+	<scope>meta.comment.Thulium</scope>
+	<description>Comment</description>
+</snippet>

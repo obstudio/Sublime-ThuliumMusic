@@ -1,0 +1,9 @@
+<snippet>
+      <content>
+        <![CDATA[0---|0---|0---|0---|
+$0]]>
+      </content>
+      <tabTrigger>r44</tabTrigger>
+      <scope>meta.subtrack.Thulium</scope>
+      <description>Rest(4, 4)</description>
+    </snippet>

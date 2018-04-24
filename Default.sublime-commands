@@ -3,7 +3,7 @@
     "caption": "Thulium: Tokenize",
     "command": "tm_execute",
     "args": {
-      "meta": "-t"
+      "meta": ""
     },
   },
   {

@@ -1,0 +1,8 @@
+<snippet>
+    <content>
+  	  <![CDATA[(1=F)$0]]>
+    </content>
+    <tabTrigger>kf</tabTrigger>
+    <scope>meta.subtrack.Thulium</scope>
+    <description>(1=F)</description>
+  </snippet>

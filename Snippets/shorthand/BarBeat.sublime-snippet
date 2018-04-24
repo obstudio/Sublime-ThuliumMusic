@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[(${1:$TM_SELECTED_TEXT}/${2:$TM_SELECTED_TEXT})${3:$TM_SELECTED_TEXT}]]></content>
-	<tabTrigger>barbeat</tabTrigger>
-	<scope>track.Thulium</scope>
-	<description>(…/…)</description>
-</snippet>

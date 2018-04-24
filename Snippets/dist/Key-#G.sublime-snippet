@@ -1,0 +1,8 @@
+<snippet>
+    <content>
+  	  <![CDATA[(1=#G)$0]]>
+    </content>
+    <tabTrigger>ksg</tabTrigger>
+    <scope>meta.subtrack.Thulium</scope>
+    <description>(1=#G)</description>
+  </snippet>

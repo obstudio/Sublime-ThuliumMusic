@@ -1,21 +1,21 @@
 {
-	"scope": "library.Thulium",
+	"scope": "meta.command.Thulium",
 	"completions": [
         {
             "trigger": "Function",
-            "contents": "Function \n\n"
+            "contents": "Function\n"
         },
         {
             "trigger": "End",
-            "contents": "End \n\n"
+            "contents": "End\n"
         },
         {
             "trigger": "Chord",
-            "contents": "Chord \n\n"
+            "contents": "Chord\n"
         },
         {
             "trigger": "Settings",
-            "contents": "Settings \n\n"
+            "contents": "Settings\n"
         },
         {
             "trigger": "Include",

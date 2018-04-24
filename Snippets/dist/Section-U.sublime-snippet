@@ -1,0 +1,9 @@
+<snippet>
+    <content>
+      <![CDATA[-------------------- Section U --------------------
+$0]]>
+    </content>
+    <tabTrigger>secu</tabTrigger>
+    <scope>meta.comment.Thulium</scope>
+    <description>Section U</description>
+  </snippet>

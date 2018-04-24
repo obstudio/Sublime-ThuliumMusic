@@ -1,13 +1,13 @@
 {
-	"scope": "include.Thulium",
+	"scope": "meta.include.Thulium",
 	"completions": [
         {
             "trigger": "Ammonia",
-            "contents": "Ammonia\n\n"
+            "contents": "Ammonia\n"
         },
         {
             "trigger": "Benzene",
-            "contents": "Benzene\n\n"
+            "contents": "Benzene\n"
         },
 	]
 }

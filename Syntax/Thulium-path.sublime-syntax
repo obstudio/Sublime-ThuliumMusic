@@ -1,0 +1,16 @@
+%YAML 1.2
+---
+
+scope: source.Thulium-path
+
+hidden: true
+
+contexts:
+
+  main:
+    - match: '>.+'
+      scope: comment.line.Thulium-path
+    - match: '[:/\\]'
+      scope: keyword.operator.Thulium-path
+    - match: .
+      scope: entity.name.filename.Thulium-path

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[(${1:$TM_SELECTED_TEXT}=)${2:$TM_SELECTED_TEXT}]]></content>
+	<tabTrigger>tremolo2</tabTrigger>
+	<scope>meta.subtrack.Thulium</scope>
+	<description>(…=)</description>
+</snippet>
